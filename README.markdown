@@ -1,3 +1,9 @@
+Building debian packages
+========================
+
+See https://github.com/hramrach/apitrace/blob/debian/DEBIAN.markdown
+
+
 About **apitrace**
 ==================
 
